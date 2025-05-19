@@ -181,7 +181,7 @@ training data is limited. Additionally, larger models may require specialized ha
 Training data volume:
 
 Expanding the training data means using more diverse and larger text corpora to train the LLMs. More data helps mitigate the risk of overfitting and enable the models to better generalize and 
-understand various domains, topics, and language nuances. However, acquiring and processing large volumes of high￾quality training data can be challenging. Data collection, cleaning, and 
+understand various domains, topics, and language nuances. However, acquiring and processing large volumes of high quality training data can be challenging. Data collection, cleaning, and 
 labeling (when required) can be time-consuming and expensive.Moreover, ensuring data diversity and addressing biases present in the data are essential to prevent models from perpetuating harmful
 stereotypes or producing unintended consequences.
 
